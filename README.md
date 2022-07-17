@@ -1,2 +1,2 @@
 # PROJECTS
-C++, HTML, CSS, JS
+
